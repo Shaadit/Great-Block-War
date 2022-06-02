@@ -1,4 +1,4 @@
-# Evocraft Samy Tom ESGI
+# Great Block War
  Evocraft project, by Samy and Tom for ESGI
  
  
